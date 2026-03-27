@@ -1,0 +1,123 @@
+==============================================================
+    HANDWRITING PERSONALITY ANALYSIS REPORT
+==============================================================
+  Image      : tmp64hc9ca5.jpeg
+  Generated  : 2026-03-26 16:08:02
+  Method     : rule_engine
+
+──────────────────────────────────────────────────────────────
+  PERSONALITY PROFILE
+──────────────────────────────────────────────────────────────
+Dominant Trait: Conscientiousness  (Organised, disciplined, reliable)
+
+Big-Five Profile:
+  Openness           ████████████████░░░░  0.84  — Creative, curious, imaginative
+  Conscientiousness  ████████████████████  1.00  — Organised, disciplined, reliable
+  Extraversion       ████████░░░░░░░░░░░░  0.42  — Ambivert — adapts to context
+  Agreeableness      ██████████░░░░░░░░░░  0.50  — Generally considerate with healthy assertiveness
+  Neuroticism        ███░░░░░░░░░░░░░░░░░  0.19  — Emotionally stable, calm under pressure
+
+──────────────────────────────────────────────────────────────
+  DETAILED SCORES
+──────────────────────────────────────────────────────────────
+  Openness           0.8427   Creative, curious, imaginative
+  Conscientiousness  1.0000   Organised, disciplined, reliable
+  Extraversion       0.4242   Ambivert — adapts to context
+  Agreeableness      0.5000   Generally considerate with healthy assertiveness
+  Neuroticism        0.1909   Emotionally stable, calm under pressure
+
+──────────────────────────────────────────────────────────────
+  EXTRACTED FEATURES
+──────────────────────────────────────────────────────────────
+  slant_angle_deg                -127.8000
+  slant_direction                left
+  slant_score                    0.0000
+  avg_word_spacing               0.0000
+  std_word_spacing               0.0000
+  word_spacing_ratio             0.0000
+  word_spacing_score             0.5000
+  avg_line_spacing               0.0000
+  line_spacing_score             0.5000
+  avg_letter_spacing             31.2000
+  letter_spacing_score           1.0000
+  pressure_mean                  153.4300
+  pressure_std                   36.4500
+  pressure_level                 medium
+  pressure_score                 0.6084
+  stroke_width_mean              32.5930
+  stroke_width_std               60.0400
+  baseline_slope                 -0.0322
+  baseline_intercept             872.1900
+  baseline_direction             straight
+  baseline_angle_deg             -1.3800
+  baseline_regularity            0.8969
+  letter_avg_height              23.0400
+  letter_std_height              9.8400
+  letter_avg_width               25.4800
+  letter_std_width               18.7900
+  letter_aspect_ratio            1.3340
+  letter_size_score              0.0573
+  letter_consistency             0.5731
+  left_margin_px                 0
+  right_margin_px                1199
+  top_margin_px                  0
+  bottom_margin_px               1599
+  left_margin_ratio              0.0000
+  right_margin_ratio             0.0008
+  top_margin_ratio               0.0000
+  bottom_margin_ratio            0.0006
+  left_margin_score              0.0000
+  right_margin_score             0.0032
+  num_lines                      1
+  num_chars                      390
+  avg_words_line                 1.0000
+
+──────────────────────────────────────────────────────────────
+  RULE ENGINE — FIRED RULES
+──────────────────────────────────────────────────────────────
+  [Extraversion      ]  slant_score                  val=0.000  w=+0.30  → increases
+      Reason: Right slant = sociable/expressive
+  [Agreeableness     ]  slant_score                  val=0.000  w=+0.15  → increases
+      Reason: Right slant = warm
+  [Neuroticism       ]  slant_score                  val=0.000  w=+0.10  → increases
+      Reason: Strong right slant = emotional expressiveness
+  [Conscientiousness ]  pressure_score               val=0.608  w=+0.20  → increases
+      Reason: Heavy pressure = commitment & vitality
+  [Neuroticism       ]  pressure_score               val=0.608  w=+0.15  → increases
+      Reason: Very heavy pressure = emotional intensity
+  [Openness          ]  pressure_score               val=0.608  w=-0.10  → decreases
+      Reason: Light pressure = sensitivity & openness
+  [Extraversion      ]  letter_size_score            val=0.057  w=+0.25  → increases
+      Reason: Large letters = outgoing, social
+  [Openness          ]  letter_size_score            val=0.057  w=+0.15  → increases
+      Reason: Large writing = desire to be noticed
+  [Conscientiousness ]  letter_consistency           val=0.573  w=+0.25  → increases
+      Reason: Consistent size = disciplined, reliable
+  [Neuroticism       ]  letter_consistency           val=0.573  w=-0.20  → decreases
+      Reason: Inconsistency = emotional variability
+  [Openness          ]  word_spacing_score           val=0.500  w=+0.15  → increases
+      Reason: Wide spacing = independent thinker
+  [Extraversion      ]  word_spacing_score           val=0.500  w=-0.15  → decreases
+      Reason: Narrow spacing = sociable, needs closeness
+  [Conscientiousness ]  word_spacing_score           val=0.500  w=+0.10  → increases
+      Reason: Wide spacing = organised thinking
+  [Conscientiousness ]  line_spacing_score           val=0.500  w=+0.15  → increases
+      Reason: Wide line spacing = clear, organised thought
+  [Openness          ]  line_spacing_score           val=0.500  w=+0.10  → increases
+      Reason: Wide spacing = open, uncluttered mind
+  [Conscientiousness ]  baseline_regularity          val=0.897  w=+0.20  → increases
+      Reason: Straight baseline = stable, reliable
+  [Neuroticism       ]  baseline_regularity          val=0.897  w=-0.25  → decreases
+      Reason: Wavy baseline = emotional instability
+  [Extraversion      ]  left_margin_score            val=0.000  w=+0.10  → increases
+      Reason: Narrow left margin = sociable, forward-looking
+  [Neuroticism       ]  right_margin_score           val=0.003  w=+0.10  → increases
+      Reason: Wide right margin = fear of the future
+  [Conscientiousness ]  left_margin_score            val=0.000  w=+0.10  → increases
+      Reason: Consistent left margin = organised
+  [Openness          ]  stroke_width_std             val=60.040  w=+0.15  → increases
+      Reason: Variable strokes = artistic, creative
+
+==============================================================
+  End of Report
+==============================================================
